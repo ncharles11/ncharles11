@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Charles 👋
 
+* 🎓 **Software Engineering Student**
+* 🚀 **Interests:** Backend Development, Cloud Computing, and Open Source.
+* 🌍 **Based** in Brest, France
+* 🏎️ **Offline:** Huge car enthusiast and motorsports fan.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-auguste-ndiaye) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ndiaye.charles@proton.me) 
