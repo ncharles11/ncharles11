@@ -1,18 +1,53 @@
 ## Hi there, I'm Charles 👋
 
-* 🎓 **Software Engineering Student**
-* 🚀 **Interests:** Backend Development, Cloud Computing, and Open Source.
-* 🌍 **Based** in Brest, France
-* 🏎️ **Offline:** Huge car enthusiast and motorsports fan.
+* 🛠️ **Backend Developer** — Python, FastAPI, system architecture
+* 🏗️ **I build for production** — hexagonal architecture, clean APIs, real-time systems
+* 🌍 **Based** in Brest, France — open to remote freelance missions
+* 🏎️ **Offline:** Car enthusiast and motorsports fan
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-auguste-ndiaye) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ndiaye.charles@proton.me) [![resume](https://img.shields.io/badge/Resume-PDF-007EC6?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/ncharles11/ncharles11/raw/main/CV_CHARLES_DL_EN.pdf)
+## 🚀 Featured Projects
 
-# 💻 Tech Stack
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats
+### [LedgerCore](https://github.com/ncharles11/ledgercore) — Invoice & Quote Management API
+Production-ready REST API automating the full lifecycle of commercial documents (invoices, quotes, credit notes). Hexagonal architecture, immutable finalized documents, gap-free sequential numbering, FSM-driven document transitions.
+
+**Stack:** FastAPI · PostgreSQL · SQLAlchemy (async) · Celery · Redis · WeasyPrint
+
+**340 tests, 80%+ coverage**
+
+### [Lookout](https://github.com/ncharles11/lookout) — Self-Hosted Infrastructure Monitoring
+Monitoring & alerting platform with anti-flapping detection, real-time WebSocket dashboard, and remote agent metrics collection. Built as a lightweight, self-hosted alternative to costly SaaS monitoring tools.
+
+**Stack:** FastAPI · TimescaleDB · Next.js 15 · Docker · WebSocket
+
+---
+
+## 🌐 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-auguste-ndiaye) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ndiaye.charles@proton.me) [![resume](https://img.shields.io/badge/Resume-PDF-007EC6?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/ncharles11/ncharles11/raw/main/CV_CHARLES_DL_EN.pdf) [![Malt](https://img.shields.io/badge/Malt-FF6F61?logo=data:image/svg+xml;base64,&logoColor=white)](https://www.malt.fr/profile/charlesndiaye)
+
+---
+
+## 💻 Core Stack
+
+**Backend:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+**Data:** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Infra:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Frontend (when needed):** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+<details>
+<summary>Also worked with: Kotlin, Java, C, R, TensorFlow/PyTorch, Kubernetes, Apache, Figma</summary>
+<br>
+Used across coursework, side projects, and earlier experiments — happy to discuss if relevant to your project.
+</details>
+
+---
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ncharles11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ncharles11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ncharles11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
